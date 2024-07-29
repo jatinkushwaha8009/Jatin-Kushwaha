@@ -21,5 +21,5 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/jatinkushwaha8009/Jatin-Kushwaha.git
   ---
